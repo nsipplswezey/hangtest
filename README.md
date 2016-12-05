@@ -9,6 +9,7 @@ Then
 protractor config.js
 ```
 
+Gives the following error, then closes chrome on cleanup
 
 ```
 Failures:
